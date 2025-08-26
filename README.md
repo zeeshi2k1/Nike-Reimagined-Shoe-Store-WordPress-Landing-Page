@@ -16,8 +16,8 @@ A custom **Nike-inspired landing page** built on **WordPress**, designed with a 
 - **Blender (3D product rendering for 360° viewer)**  
 
 ## 📸 Preview
-![Nike Landing Page Screenshot](<img width="1903" height="8874" alt="DesktopLanding page" src="https://github.com/user-attachments/assets/c7626d7b-ea70-48a3-a774-beb9037d541b" />)  
-*(Upload a screenshot in the repo as `screenshot.png`)*  
+<img width="1903" height="8874" alt="DesktopLanding page" src="https://github.com/user-attachments/assets/c7626d7b-ea70-48a3-a774-beb9037d541b" />  
+
 
 ## 📂 Setup Instructions
 1. Clone the repository:  
